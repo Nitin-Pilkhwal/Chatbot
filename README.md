@@ -53,10 +53,9 @@ Contributions to the Personal AI Chatbot project are welcome! If you have any id
 The Personal AI Chatbot project acknowledges the following technologies and services:
 
 - [Streamlit](https://streamlit.io/): The Streamlit library is used to build the interactive chatbot interface.
-- [Bard API](https://bardapi.com): The Bard API is utilized for efficient query processing and generating text-based solutions.
-
+- [Bard API](https://github.com/dsdanielpark/Bard-API): This Python package is not an official Google package or API service. It is not affiliated with Google and uses Google account cookies, which means that excessive or commercial usage may result in restrictions on your Google account. The package was created to support developers in testing functionalities due to delays in the official Google package. However, it should not be misused or abused. Please be cautious and refer to the Readme for more information.
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding the Personal AI Chatbot, please feel free to contact us at `your-email@example.com`. We would be delighted to hear from you and assist you with any inquiries you may have.
+If you have any questions, suggestions, or feedback regarding the Personal AI Chatbot, please feel free to contact me at Instagram `1_n_near_u`. I would be delighted to hear from you and assist you with any inquiries you may have.
 
 Feel free to customize the README file further to provide more details specific to your project.
