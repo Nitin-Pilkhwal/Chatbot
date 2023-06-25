@@ -1,6 +1,6 @@
-# Personal AI Chatbot
+# 🤖 Personal AI Chatbot
 
-![Chatbot Demo](demo.gif)
+![Chatbot Demo](https://drive.google.com/file/d/1TqbHLTyrJoWK3Cz5jmPsR185ctd3OEom/view?usp=sharing)
 
 The Personal AI Chatbot is a powerful conversational AI system designed to provide text-based solutions to user queries. It leverages the capabilities of LLM (Large Language Model) to generate accurate and helpful responses. The chatbot is built using the Streamlit library and is deployed on Streamlit Cloud for easy access.
 
